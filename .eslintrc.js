@@ -35,7 +35,7 @@ module.exports = {
     'handle-callback-err': ['error'],
     'arrow-body-style': ['off', 2],
     indent: ['off', 2],
-    'linebreak-style': ['error', 'unix'],
+    'linebreak-style': ['error', 'windows'],
     'no-dupe-keys': ['error'],
     'no-duplicate-case': ['error'],
     'no-extra-semi': ['warn'],
